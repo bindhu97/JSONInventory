@@ -10,7 +10,6 @@ namespace JSONInventory
     internal class JsonMain
     {
         model Inventory = new model();
-        List<model> InventoryList = new List<model>();
         public void convert(string jFilePath)
         {
             using (StreamReader reader = new StreamReader(jFilePath))
