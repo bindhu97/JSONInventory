@@ -1,0 +1,44 @@
+﻿{
+  {
+    "TypeOfRice": [
+      {
+        "name": "rice",
+        "weight": 5,
+        "price": 100
+      },
+      {
+        "name": "basmati",
+        "weight": 8,
+        "price": 120
+      }
+    ]
+  },
+  {
+    "TypeOfPulses": [
+      {
+        "name": "dal",
+        "weight": 2,
+        "price": 160
+      },
+      {
+        "name": "moong",
+        "weight": 1,
+        "price": 90
+      }
+    ]
+  },
+  {
+    "TypeOfWheat": [
+      {
+        "name": "Sharbati",
+        "weight": 4,
+        "price": 250
+      },
+      {
+        "name": "Gavran",
+        "weight": 4,
+        "price": 200
+      }
+    ]
+  }
+}
