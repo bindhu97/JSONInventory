@@ -1,0 +1,17 @@
+﻿[
+  {
+    "Company": "Amazon",
+    "NumberofShare": "20",
+    "StockPrice": "800"
+  },
+  {
+    "Company": "Flipkart",
+    "NumberofShare": "40",
+    "StockPrice": "750"
+  },
+  {
+    "Company": "Google",
+    "NumberofShare": "30",
+    "StockPrice": "950"
+  }
+]
